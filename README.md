@@ -3,4 +3,4 @@ CTRD is a new Chinese Theme-Rheme Discourse Dataset for Chinese discourse analys
 # Citations
 When you use the dataset in your work, would you please cite the following papers:
 
-[1] Yiqi Tong, Jiangbin Zheng, Hongkang Zhu, Yidong Chen, Xiaodong Shi. CTRD: A Chinese Theme-Rheme Discourse Dataset. Arxiv, 2020.
+[1] Yiqi Tong, Jiangbin Zheng, Hongkang Zhu, Yidong Chen, Xiaodong Shi. A Document-Level Neural Machine Translation Model with Dynamic Caching Guided by Theme-Rheme Information. In Proc. of COLING 2020.
